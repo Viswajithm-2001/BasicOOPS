@@ -1,0 +1,15 @@
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.exe
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.deps.json
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.runtimeconfig.json
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.dll
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\bin\Debug\net7.0\CollegeAdmission.pdb
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.AssemblyReference.cache
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfoInputs.cache
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.AssemblyInfo.cs
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.csproj.CoreCompileInputs.cache
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.dll
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\refint\CollegeAdmission.dll
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.pdb
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\CollegeAdmission.genruntimeconfig.cache
+C:\Users\ViswajithMathialagan\OneDrive - Syncfusion\Desktop\Assignments\Phase 2 Basic List\CollegeAdmission\obj\Debug\net7.0\ref\CollegeAdmission.dll
